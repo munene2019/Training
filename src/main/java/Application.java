@@ -8,6 +8,7 @@ public class Application {
         float accountBal=30000000;
         System.out.println("Student Name " + name);
         System.out.println("Testing");
+        System.out.println("Testing updated");
 
 
 
