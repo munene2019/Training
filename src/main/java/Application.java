@@ -10,9 +10,7 @@ public class Application {
         System.out.println("Testing");
         System.out.println("Testing updated");
         System.out.println("Testing updated4");
-
-
-
+        System.out.println("Testing updated4");
     }
     //What is a:
     //Class-Application
